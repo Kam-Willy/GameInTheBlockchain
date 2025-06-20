@@ -1,0 +1,87 @@
+{
+    "c24e9fe7-af10-4ca5-811f-d5575305cb0a": {
+        "name": "Willy",
+        "highest_score": 0,
+        "total_score": 0
+    },
+    "a644f83d-04b8-4684-9b17-5862576e19a1": {
+        "name": "Willy",
+        "highest_score": 26,
+        "total_score": 33
+    },
+    "40a0c1e4-3d92-4a51-a63f-5b00909abd89": {
+        "name": "Willy",
+        "highest_score": 0,
+        "total_score": 0
+    },
+    "0b7910a3-d7ea-4244-ad0d-8573d83877ff": {
+        "name": "Willy",
+        "highest_score": 0,
+        "total_score": 0
+    },
+    "25e10ea1-5073-49d2-b45b-3ea54a4677a5": {
+        "name": "Willy",
+        "highest_score": 62,
+        "total_score": 81
+    },
+    "874f42fc-266f-4802-a40b-d861071ed5bf": {
+        "name": "Willy",
+        "highest_score": 24,
+        "total_score": 24
+    },
+    "956da1e6-23fc-49fc-8a09-c79c064caf75": {
+        "name": "Willy",
+        "highest_score": 29,
+        "total_score": 33
+    },
+    "0f225e97-589e-41fc-b20d-798ebe0aec22": {
+        "name": "Willy",
+        "highest_score": 18,
+        "total_score": 18
+    },
+    "1e0d81c0-1c53-40cf-8791-bd70c575e6df": {
+        "name": "will",
+        "highest_score": 38,
+        "total_score": 38
+    },
+    "dacc8eff-f661-4079-82c0-159e53172986": {
+        "name": "Willy",
+        "highest_score": 53,
+        "total_score": 53
+    },
+    "2064b20e-7d0b-4818-b7cb-dc903912933e": {
+        "id": "2064b20e-7d0b-4818-b7cb-dc903912933e",
+        "name": "Willy",
+        "address": "0x775e5144ef1A51F95e3f0824D294B0DFD01cBd2D",
+        "score": 18,
+        "timestamp": "2025-06-19T15:08:03.326157"
+    },
+    "633f6e32-6f3e-46df-8666-bc23629f2caf": {
+        "id": "633f6e32-6f3e-46df-8666-bc23629f2caf",
+        "name": "Will",
+        "address": "0x23c407def6e4D7a520e5B749e327caac18A96F35",
+        "score": 6,
+        "timestamp": "2025-06-19T15:28:46.278648"
+    },
+    "8319af16-6903-43e2-a1d1-7e6cd4c7d5af": {
+        "id": "8319af16-6903-43e2-a1d1-7e6cd4c7d5af",
+        "name": "Will",
+        "address": "0x23c407def6e4D7a520e5B749e327caac18A96F35",
+        "score": 27,
+        "timestamp": "2025-06-19T16:18:18.028590"
+    },
+    "63aaf1f1-1e5b-48ab-b6d4-54501e799353": {
+        "id": "63aaf1f1-1e5b-48ab-b6d4-54501e799353",
+        "name": "Will",
+        "address": "0x23c407def6e4D7a520e5B749e327caac18A96F35",
+        "score": 58,
+        "timestamp": "2025-06-20T03:39:08.877957"
+    },
+    "127e2131-8e05-4dff-a690-61b85b8b02d6": {
+        "id": "127e2131-8e05-4dff-a690-61b85b8b02d6",
+        "name": "Willy",
+        "address": "0x775e5144ef1A51F95e3f0824D294B0DFD01cBd2D",
+        "score": 6,
+        "timestamp": "2025-06-20T03:51:35.381172"
+    }
+}
